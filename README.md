@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikojbk
 - 👀 I’m interested in Front-End Design
 - 🌱 I’m currently learning Full Stack java
-- 💞️ I’m looking to collaborate on IntelliJ idea
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
